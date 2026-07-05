@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third-year *Electrical and Electronic Engineering* student 
+I'm a third-year *Electrical and Electronic Engineering* student.
+
+I am currently working on the following:
 
 ## Hardware Engineering Portfolio
 
