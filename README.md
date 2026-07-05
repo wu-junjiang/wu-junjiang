@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a third-year [Electrical and Electronic Engineering] student 
 
 ## Hardware Engineering Portfolio
 
-I'm a third-year [Electrical and Electronic Engineering] student focused on digital hardware design and verification.
+In this portfolio, I am focused on digital hardware design and verification.
 These four projects together demonstrate RTL design, verification methodology,
 PCB/circuit design, embedded systems, and applied optimization:
 
