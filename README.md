@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hardware Engineering Portfolio
+
+I'm a third-year [Electrical and Electronic Engineering] student focused on digital hardware design and verification.
+These four projects together demonstrate RTL design, verification methodology,
+PCB/circuit design, embedded systems, and applied optimization:
+
+### 🔧 [mini-gpu-rtl-verification](link)
+A small SIMD/GPU-style processor with full RTL design + verification (SVA, cocotb, formal methods).
+
+### 🔌 [pcb-circuit-design](link)
+End-to-end schematic and PCB layout in KiCad.
+
+### 📡 [embedded-sensor-dashboard](link)
+Raspberry Pi sensor system with a live web dashboard.
+
+### ⚙️ [hardware-design-optimization](link)
+Optimization scripts for hardware parameters + a CNN for image-based classification.
