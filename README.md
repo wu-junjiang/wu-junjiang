@@ -22,14 +22,14 @@ I'm a third-year [Electrical and Electronic Engineering] student focused on digi
 These four projects together demonstrate RTL design, verification methodology,
 PCB/circuit design, embedded systems, and applied optimization:
 
-### 🔧 [Mini-GPU-RTL-Verification](link)
+### 🔧 [Mini-GPU-RTL-Verification](https://github.com/wu-junjiang/Mini-GPU-RTL-Verification)
 A small SIMD/GPU-style processor with full RTL design + verification (SVA, cocotb, formal methods).
 
-### 🔌 [PCB-Circuit-Design](link)
+### 🔌 [PCB-Circuit-Design](https://github.com/wu-junjiang/PCB-Circuit-Design)
 End-to-end schematic and PCB layout in KiCad.
 
-### 📡 [Embedded-Sensor-Dashboard](link)
+### 📡 [Embedded-Sensor-Dashboard](https://github.com/wu-junjiang/Embedded-Sensor-Dashboard)
 Raspberry Pi sensor system with a live web dashboard.
 
-### ⚙️ [Hardware-Design-Optimization](link)
+### ⚙️ [Hardware-Design-Optimization](https://github.com/wu-junjiang/Hardware-Design-Optmization)
 Optimization scripts for hardware parameters + a CNN for image-based classification.
